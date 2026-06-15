@@ -1,0 +1,19 @@
+*
+{
+padding: 0;
+}
+
+body
+{
+background-color: #fffdfa;
+}
+
+header
+{
+display: flex;
+background-color: #333;
+color: white;
+list-style: none;
+padding: 0;
+
+}
