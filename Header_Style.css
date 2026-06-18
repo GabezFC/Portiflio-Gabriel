@@ -1,23 +1,25 @@
 *
 {
-padding: 0;
-color: rgb(255, 255, 255);
+padding:0px;
+color: #30200B;
+text-align: left;
 }
 
 body
 {
-background-color: #242323;
+background-color: #FCF4E8;
 }
 
 header
 {
+margin-bottom: 3rem;
 display: flex;
-background-color: #181717a1;
+background-color: #FFEBCD;
 padding: 1px 20px;
 border-top-left-radius: 10px;
 border-top-right-radius: 10px;
 border-bottom-left-radius: 13px;
-border-bottom: 0.2rem solid #ff9500;
+border-bottom: 0.2rem solid #BE7413;
 }
 
 header ul
@@ -33,7 +35,9 @@ list-style: none;
 
 header ul li
 {
-background-color: #ff9500; 
+background-color: #F4A460; 
 padding: 7px;   
 border-radius: 5px;
+font-size: 18px
 }   
+          
